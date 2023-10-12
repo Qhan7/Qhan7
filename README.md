@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qhan7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me theekhanate@gmail.com
 
 <!---
